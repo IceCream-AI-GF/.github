@@ -2,16 +2,19 @@
 
 It's time to make your on-chain AI gf! uWu
 <br/>
-[link]
+https://icecream-alpha.vercel.app/
 
 <i>currently in alpha testing,
 <br/>
 get in here lil shid.</i>
 
-Twitter
-<br/>
+<b>X</b>
 https://x.com/icecream_gf
 
-Discord
+<b>Telegram Group</b>
+<br/>
+https://t.me/+i5oTJld2iadhZWQ5
+
+<b>Discord Server</b>
 <br/>
 https://discord.gg/5YyMFftktK
