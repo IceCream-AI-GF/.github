@@ -4,6 +4,8 @@ It's time to make your on-chain AI gf! uWu
 <br/>
 https://icecream-alpha.vercel.app/
 
+![icecream](./icecream.png)
+
 <i>currently in alpha testing,
 <br/>
 get in here lil shid.</i>
